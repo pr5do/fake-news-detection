@@ -14,7 +14,7 @@ The database used was Fake.Br Corpus, from [this](https://github.com/roneysco/Fa
  - [ ] Split the data into training and test samples
  - [ ] Train the SVM model into the dataset
  - [ ] Test the model with the test sample
- - [ ] Test with a known news at Brazil
+ - [ ] Test with known news at Brazil
 
 
 
